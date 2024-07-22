@@ -37,7 +37,7 @@ const userVotes = {};
 
 client.once("ready", () => {
   console.log("Bot is online!");
-  console.log("https://discord.gg/nVYk2S39b4");
+  console.log("Credits: @TrixNEW, @EncoyIX");
 });
 
 client.on("messageCreate", (message) => {
